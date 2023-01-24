@@ -1,0 +1,1752 @@
+[
+  {
+    "text": "Slide 0",
+    "img": "./img/cuore7_00000.png",
+    "url": "slide0.html",
+    "div1": "<img src='Item0.png'>",
+    "div2": "Item 0 text"
+  },
+  {
+    "text": "Slide 1",
+    "img": "./img/cuore7_00001.png",
+    "url": "slide1.html",
+    "div1": "<img src='Item1.png'>",
+    "div2": "Item 1 text"
+  },
+  {
+    "text": "Slide 2",
+    "img": "./img/cuore7_00002.png",
+    "url": "slide2.html",
+    "div1": "<img src='Item2.png'>",
+    "div2": "Item 2 text"
+  },
+  {
+    "text": "Slide 3",
+    "img": "./img/cuore7_00003.png",
+    "url": "slide3.html",
+    "div1": "<img src='Item3.png'>",
+    "div2": "Item 3 text"
+  },
+  {
+    "text": "Slide 4",
+    "img": "./img/cuore7_00004.png",
+    "url": "slide4.html",
+    "div1": "<img src='Item4.png'>",
+    "div2": "Item 4 text"
+  },
+  {
+    "text": "Slide 5",
+    "img": "./img/cuore7_00005.png",
+    "url": "slide5.html",
+    "div1": "<img src='Item5.png'>",
+    "div2": "Item 5 text"
+  },
+  {
+    "text": "Slide 6",
+    "img": "./img/cuore7_00006.png",
+    "url": "slide6.html",
+    "div1": "<img src='Item6.png'>",
+    "div2": "Item 6 text"
+  },
+  {
+    "text": "Slide 7",
+    "img": "./img/cuore7_00007.png",
+    "url": "slide7.html",
+    "div1": "<img src='Item7.png'>",
+    "div2": "Item 7 text"
+  },
+  {
+    "text": "Slide 8",
+    "img": "./img/cuore7_00008.png",
+    "url": "slide8.html",
+    "div1": "<img src='Item8.png'>",
+    "div2": "Item 8 text"
+  },
+  {
+    "text": "Slide 9",
+    "img": "./img/cuore7_00009.png",
+    "url": "slide9.html",
+    "div1": "<img src='Item9.png'>",
+    "div2": "Item 9 text"
+  },
+  {
+    "text": "Slide 10",
+    "img": "./img/cuore7_00010.png",
+    "url": "slide10.html",
+    "div1": "<img src='Item10.png'>",
+    "div2": "Item 10 text"
+  },
+  {
+    "text": "Slide 11",
+    "img": "./img/cuore7_00011.png",
+    "url": "slide11.html",
+    "div1": "<img src='Item11.png'>",
+    "div2": "Item 11 text"
+  },
+  {
+    "text": "Slide 12",
+    "img": "./img/cuore7_00012.png",
+    "url": "slide12.html",
+    "div1": "<img src='Item12.png'>",
+    "div2": "Item 12 text"
+  },
+  {
+    "text": "Slide 13",
+    "img": "./img/cuore7_00013.png",
+    "url": "slide13.html",
+    "div1": "<img src='Item13.png'>",
+    "div2": "Item 13 text"
+  },
+  {
+    "text": "Slide 14",
+    "img": "./img/cuore7_00014.png",
+    "url": "slide14.html",
+    "div1": "<img src='Item14.png'>",
+    "div2": "Item 14 text"
+  },
+  {
+    "text": "Slide 15",
+    "img": "./img/cuore7_00015.png",
+    "url": "slide15.html",
+    "div1": "<img src='Item15.png'>",
+    "div2": "Item 15 text"
+  },
+  {
+    "text": "Slide 16",
+    "img": "./img/cuore7_00016.png",
+    "url": "slide16.html",
+    "div1": "<img src='Item16.png'>",
+    "div2": "Item 16 text"
+  },
+  {
+    "text": "Slide 17",
+    "img": "./img/cuore7_00017.png",
+    "url": "slide17.html",
+    "div1": "<img src='Item17.png'>",
+    "div2": "Item 17 text"
+  },
+  {
+    "text": "Slide 18",
+    "img": "./img/cuore7_00018.png",
+    "url": "slide18.html",
+    "div1": "<img src='Item18.png'>",
+    "div2": "Item 18 text"
+  },
+  {
+    "text": "Slide 19",
+    "img": "./img/cuore7_00019.png",
+    "url": "slide19.html",
+    "div1": "<img src='Item19.png'>",
+    "div2": "Item 19 text"
+  },
+  {
+    "text": "Slide 20",
+    "img": "./img/cuore7_00020.png",
+    "url": "slide20.html",
+    "div1": "<img src='Item20.png'>",
+    "div2": "Item 20 text"
+  },
+  {
+    "text": "Slide 21",
+    "img": "./img/cuore7_00021.png",
+    "url": "slide21.html",
+    "div1": "<img src='Item21.png'>",
+    "div2": "Item 21 text"
+  },
+  {
+    "text": "Slide 22",
+    "img": "./img/cuore7_00022.png",
+    "url": "slide22.html",
+    "div1": "<img src='Item22.png'>",
+    "div2": "Item 22 text"
+  },
+  {
+    "text": "Slide 23",
+    "img": "./img/cuore7_00023.png",
+    "url": "slide23.html",
+    "div1": "<img src='Item23.png'>",
+    "div2": "Item 23 text"
+  },
+  {
+    "text": "Slide 24",
+    "img": "./img/cuore7_00024.png",
+    "url": "slide24.html",
+    "div1": "<img src='Item24.png'>",
+    "div2": "Item 24 text"
+  },
+  {
+    "text": "Slide 25",
+    "img": "./img/cuore7_00025.png",
+    "url": "slide25.html",
+    "div1": "<img src='Item25.png'>",
+    "div2": "Item 25 text"
+  },
+  {
+    "text": "Slide 26",
+    "img": "./img/cuore7_00026.png",
+    "url": "slide26.html",
+    "div1": "<img src='Item26.png'>",
+    "div2": "Item 26 text"
+  },
+  {
+    "text": "Slide 27",
+    "img": "./img/cuore7_00027.png",
+    "url": "slide27.html",
+    "div1": "<img src='Item27.png'>",
+    "div2": "Item 27 text"
+  },
+  {
+    "text": "Slide 28",
+    "img": "./img/cuore7_00028.png",
+    "url": "slide28.html",
+    "div1": "<img src='Item28.png'>",
+    "div2": "Item 28 text"
+  },
+  {
+    "text": "Slide 29",
+    "img": "./img/cuore7_00029.png",
+    "url": "slide29.html",
+    "div1": "<img src='Item29.png'>",
+    "div2": "Item 29 text"
+  },
+  {
+    "text": "Slide 30",
+    "img": "./img/cuore7_00030.png",
+    "url": "slide30.html",
+    "div1": "<img src='Item30.png'>",
+    "div2": "Item 30 text"
+  },
+  {
+    "text": "Slide 31",
+    "img": "./img/cuore7_00031.png",
+    "url": "slide31.html",
+    "div1": "<img src='Item31.png'>",
+    "div2": "Item 31 text"
+  },
+  {
+    "text": "Slide 32",
+    "img": "./img/cuore7_00032.png",
+    "url": "slide32.html",
+    "div1": "<img src='Item32.png'>",
+    "div2": "Item 32 text"
+  },
+  {
+    "text": "Slide 33",
+    "img": "./img/cuore7_00033.png",
+    "url": "slide33.html",
+    "div1": "<img src='Item33.png'>",
+    "div2": "Item 33 text"
+  },
+  {
+    "text": "Slide 34",
+    "img": "./img/cuore7_00034.png",
+    "url": "slide34.html",
+    "div1": "<img src='Item34.png'>",
+    "div2": "Item 34 text"
+  },
+  {
+    "text": "Slide 35",
+    "img": "./img/cuore7_00035.png",
+    "url": "slide35.html",
+    "div1": "<img src='Item35.png'>",
+    "div2": "Item 35 text"
+  },
+  {
+    "text": "Slide 36",
+    "img": "./img/cuore7_00036.png",
+    "url": "slide36.html",
+    "div1": "<img src='Item36.png'>",
+    "div2": "Item 36 text"
+  },
+  {
+    "text": "Slide 37",
+    "img": "./img/cuore7_00037.png",
+    "url": "slide37.html",
+    "div1": "<img src='Item37.png'>",
+    "div2": "Item 37 text"
+  },
+  {
+    "text": "Slide 38",
+    "img": "./img/cuore7_00038.png",
+    "url": "slide38.html",
+    "div1": "<img src='Item38.png'>",
+    "div2": "Item 38 text"
+  },
+  {
+    "text": "Slide 39",
+    "img": "./img/cuore7_00039.png",
+    "url": "slide39.html",
+    "div1": "<img src='Item39.png'>",
+    "div2": "Item 39 text"
+  },
+  {
+    "text": "Slide 40",
+    "img": "./img/cuore7_00040.png",
+    "url": "slide40.html",
+    "div1": "<img src='Item40.png'>",
+    "div2": "Item 40 text"
+  },
+  {
+    "text": "Slide 41",
+    "img": "./img/cuore7_00041.png",
+    "url": "slide41.html",
+    "div1": "<img src='Item41.png'>",
+    "div2": "Item 41 text"
+  },
+  {
+    "text": "Slide 42",
+    "img": "./img/cuore7_00042.png",
+    "url": "slide42.html",
+    "div1": "<img src='Item42.png'>",
+    "div2": "Item 42 text"
+  },
+  {
+    "text": "Slide 43",
+    "img": "./img/cuore7_00043.png",
+    "url": "slide43.html",
+    "div1": "<img src='Item43.png'>",
+    "div2": "Item 43 text"
+  },
+  {
+    "text": "Slide 44",
+    "img": "./img/cuore7_00044.png",
+    "url": "slide44.html",
+    "div1": "<img src='Item44.png'>",
+    "div2": "Item 44 text"
+  },
+  {
+    "text": "Slide 45",
+    "img": "./img/cuore7_00045.png",
+    "url": "slide45.html",
+    "div1": "<img src='Item45.png'>",
+    "div2": "Item 45 text"
+  },
+  {
+    "text": "Slide 46",
+    "img": "./img/cuore7_00046.png",
+    "url": "slide46.html",
+    "div1": "<img src='Item46.png'>",
+    "div2": "Item 46 text"
+  },
+  {
+    "text": "Slide 47",
+    "img": "./img/cuore7_00047.png",
+    "url": "slide47.html",
+    "div1": "<img src='Item47.png'>",
+    "div2": "Item 47 text"
+  },
+  {
+    "text": "Slide 48",
+    "img": "./img/cuore7_00048.png",
+    "url": "slide48.html",
+    "div1": "<img src='Item48.png'>",
+    "div2": "Item 48 text"
+  },
+  {
+    "text": "Slide 49",
+    "img": "./img/cuore7_00049.png",
+    "url": "slide49.html",
+    "div1": "<img src='Item49.png'>",
+    "div2": "Item 49 text"
+  },
+  {
+    "text": "Slide 50",
+    "img": "./img/cuore7_00050.png",
+    "url": "slide50.html",
+    "div1": "<img src='Item50.png'>",
+    "div2": "Item 50 text"
+  },
+  {
+    "text": "Slide 51",
+    "img": "./img/cuore7_00051.png",
+    "url": "slide51.html",
+    "div1": "<img src='Item51.png'>",
+    "div2": "Item 51 text"
+  },
+  {
+    "text": "Slide 52",
+    "img": "./img/cuore7_00052.png",
+    "url": "slide52.html",
+    "div1": "<img src='Item52.png'>",
+    "div2": "Item 52 text"
+  },
+  {
+    "text": "Slide 53",
+    "img": "./img/cuore7_00053.png",
+    "url": "slide53.html",
+    "div1": "<img src='Item53.png'>",
+    "div2": "Item 53 text"
+  },
+  {
+    "text": "Slide 54",
+    "img": "./img/cuore7_00054.png",
+    "url": "slide54.html",
+    "div1": "<img src='Item54.png'>",
+    "div2": "Item 54 text"
+  },
+  {
+    "text": "Slide 55",
+    "img": "./img/cuore7_00055.png",
+    "url": "slide55.html",
+    "div1": "<img src='Item55.png'>",
+    "div2": "Item 55 text"
+  },
+  {
+    "text": "Slide 56",
+    "img": "./img/cuore7_00056.png",
+    "url": "slide56.html",
+    "div1": "<img src='Item56.png'>",
+    "div2": "Item 56 text"
+  },
+  {
+    "text": "Slide 57",
+    "img": "./img/cuore7_00057.png",
+    "url": "slide57.html",
+    "div1": "<img src='Item57.png'>",
+    "div2": "Item 57 text"
+  },
+  {
+    "text": "Slide 58",
+    "img": "./img/cuore7_00058.png",
+    "url": "slide58.html",
+    "div1": "<img src='Item58.png'>",
+    "div2": "Item 58 text"
+  },
+  {
+    "text": "Slide 59",
+    "img": "./img/cuore7_00059.png",
+    "url": "slide59.html",
+    "div1": "<img src='Item59.png'>",
+    "div2": "Item 59 text"
+  },
+  {
+    "text": "Slide 60",
+    "img": "./img/cuore7_00060.png",
+    "url": "slide60.html",
+    "div1": "<img src='Item60.png'>",
+    "div2": "Item 60 text"
+  },
+  {
+    "text": "Slide 61",
+    "img": "./img/cuore7_00061.png",
+    "url": "slide61.html",
+    "div1": "<img src='Item61.png'>",
+    "div2": "Item 61 text"
+  },
+  {
+    "text": "Slide 62",
+    "img": "./img/cuore7_00062.png",
+    "url": "slide62.html",
+    "div1": "<img src='Item62.png'>",
+    "div2": "Item 62 text"
+  },
+  {
+    "text": "Slide 63",
+    "img": "./img/cuore7_00063.png",
+    "url": "slide63.html",
+    "div1": "<img src='Item63.png'>",
+    "div2": "Item 63 text"
+  },
+  {
+    "text": "Slide 64",
+    "img": "./img/cuore7_00064.png",
+    "url": "slide64.html",
+    "div1": "<img src='Item64.png'>",
+    "div2": "Item 64 text"
+  },
+  {
+    "text": "Slide 65",
+    "img": "./img/cuore7_00065.png",
+    "url": "slide65.html",
+    "div1": "<img src='Item65.png'>",
+    "div2": "Item 65 text"
+  },
+  {
+    "text": "Slide 66",
+    "img": "./img/cuore7_00066.png",
+    "url": "slide66.html",
+    "div1": "<img src='Item66.png'>",
+    "div2": "Item 66 text"
+  },
+  {
+    "text": "Slide 67",
+    "img": "./img/cuore7_00067.png",
+    "url": "slide67.html",
+    "div1": "<img src='Item67.png'>",
+    "div2": "Item 67 text"
+  },
+  {
+    "text": "Slide 68",
+    "img": "./img/cuore7_00068.png",
+    "url": "slide68.html",
+    "div1": "<img src='Item68.png'>",
+    "div2": "Item 68 text"
+  },
+  {
+    "text": "Slide 69",
+    "img": "./img/cuore7_00069.png",
+    "url": "slide69.html",
+    "div1": "<img src='Item69.png'>",
+    "div2": "Item 69 text"
+  },
+  {
+    "text": "Slide 70",
+    "img": "./img/cuore7_00070.png",
+    "url": "slide70.html",
+    "div1": "<img src='Item70.png'>",
+    "div2": "Item 70 text"
+  },
+  {
+    "text": "Slide 71",
+    "img": "./img/cuore7_00071.png",
+    "url": "slide71.html",
+    "div1": "<img src='Item71.png'>",
+    "div2": "Item 71 text"
+  },
+  {
+    "text": "Slide 72",
+    "img": "./img/cuore7_00072.png",
+    "url": "slide72.html",
+    "div1": "<img src='Item72.png'>",
+    "div2": "Item 72 text"
+  },
+  {
+    "text": "Slide 73",
+    "img": "./img/cuore7_00073.png",
+    "url": "slide73.html",
+    "div1": "<img src='Item73.png'>",
+    "div2": "Item 73 text"
+  },
+  {
+    "text": "Slide 74",
+    "img": "./img/cuore7_00074.png",
+    "url": "slide74.html",
+    "div1": "<img src='Item74.png'>",
+    "div2": "Item 74 text"
+  },
+  {
+    "text": "Slide 75",
+    "img": "./img/cuore7_00075.png",
+    "url": "slide75.html",
+    "div1": "<img src='Item75.png'>",
+    "div2": "Item 75 text"
+  },
+  {
+    "text": "Slide 76",
+    "img": "./img/cuore7_00076.png",
+    "url": "slide76.html",
+    "div1": "<img src='Item76.png'>",
+    "div2": "Item 76 text"
+  },
+  {
+    "text": "Slide 77",
+    "img": "./img/cuore7_00077.png",
+    "url": "slide77.html",
+    "div1": "<img src='Item77.png'>",
+    "div2": "Item 77 text"
+  },
+  {
+    "text": "Slide 78",
+    "img": "./img/cuore7_00078.png",
+    "url": "slide78.html",
+    "div1": "<img src='Item78.png'>",
+    "div2": "Item 78 text"
+  },
+  {
+    "text": "Slide 79",
+    "img": "./img/cuore7_00079.png",
+    "url": "slide79.html",
+    "div1": "<img src='Item79.png'>",
+    "div2": "Item 79 text"
+  },
+  {
+    "text": "Slide 80",
+    "img": "./img/cuore7_00080.png",
+    "url": "slide80.html",
+    "div1": "<img src='Item80.png'>",
+    "div2": "Item 80 text"
+  },
+  {
+    "text": "Slide 81",
+    "img": "./img/cuore7_00081.png",
+    "url": "slide81.html",
+    "div1": "<img src='Item81.png'>",
+    "div2": "Item 81 text"
+  },
+  {
+    "text": "Slide 82",
+    "img": "./img/cuore7_00082.png",
+    "url": "slide82.html",
+    "div1": "<img src='Item82.png'>",
+    "div2": "Item 82 text"
+  },
+  {
+    "text": "Slide 83",
+    "img": "./img/cuore7_00083.png",
+    "url": "slide83.html",
+    "div1": "<img src='Item83.png'>",
+    "div2": "Item 83 text"
+  },
+  {
+    "text": "Slide 84",
+    "img": "./img/cuore7_00084.png",
+    "url": "slide84.html",
+    "div1": "<img src='Item84.png'>",
+    "div2": "Item 84 text"
+  },
+  {
+    "text": "Slide 85",
+    "img": "./img/cuore7_00085.png",
+    "url": "slide85.html",
+    "div1": "<img src='Item85.png'>",
+    "div2": "Item 85 text"
+  },
+  {
+    "text": "Slide 86",
+    "img": "./img/cuore7_00086.png",
+    "url": "slide86.html",
+    "div1": "<img src='Item86.png'>",
+    "div2": "Item 86 text"
+  },
+  {
+    "text": "Slide 87",
+    "img": "./img/cuore7_00087.png",
+    "url": "slide87.html",
+    "div1": "<img src='Item87.png'>",
+    "div2": "Item 87 text"
+  },
+  {
+    "text": "Slide 88",
+    "img": "./img/cuore7_00088.png",
+    "url": "slide88.html",
+    "div1": "<img src='Item88.png'>",
+    "div2": "Item 88 text"
+  },
+  {
+    "text": "Slide 89",
+    "img": "./img/cuore7_00089.png",
+    "url": "slide89.html",
+    "div1": "<img src='Item89.png'>",
+    "div2": "Item 89 text"
+  },
+  {
+    "text": "Slide 90",
+    "img": "./img/cuore7_00090.png",
+    "url": "slide90.html",
+    "div1": "<img src='Item90.png'>",
+    "div2": "Item 90 text"
+  },
+  {
+    "text": "Slide 91",
+    "img": "./img/cuore7_00091.png",
+    "url": "slide91.html",
+    "div1": "<img src='Item91.png'>",
+    "div2": "Item 91 text"
+  },
+  {
+    "text": "Slide 92",
+    "img": "./img/cuore7_00092.png",
+    "url": "slide92.html",
+    "div1": "<img src='Item92.png'>",
+    "div2": "Item 92 text"
+  },
+  {
+    "text": "Slide 93",
+    "img": "./img/cuore7_00093.png",
+    "url": "slide93.html",
+    "div1": "<img src='Item93.png'>",
+    "div2": "Item 93 text"
+  },
+  {
+    "text": "Slide 94",
+    "img": "./img/cuore7_00094.png",
+    "url": "slide94.html",
+    "div1": "<img src='Item94.png'>",
+    "div2": "Item 94 text"
+  },
+  {
+    "text": "Slide 95",
+    "img": "./img/cuore7_00095.png",
+    "url": "slide95.html",
+    "div1": "<img src='Item95.png'>",
+    "div2": "Item 95 text"
+  },
+  {
+    "text": "Slide 96",
+    "img": "./img/cuore7_00096.png",
+    "url": "slide96.html",
+    "div1": "<img src='Item96.png'>",
+    "div2": "Item 96 text"
+  },
+  {
+    "text": "Slide 97",
+    "img": "./img/cuore7_00097.png",
+    "url": "slide97.html",
+    "div1": "<img src='Item97.png'>",
+    "div2": "Item 97 text"
+  },
+  {
+    "text": "Slide 98",
+    "img": "./img/cuore7_00098.png",
+    "url": "slide98.html",
+    "div1": "<img src='Item98.png'>",
+    "div2": "Item 98 text"
+  },
+  {
+    "text": "Slide 99",
+    "img": "./img/cuore7_00099.png",
+    "url": "slide99.html",
+    "div1": "<img src='Item99.png'>",
+    "div2": "Item 99 text"
+  },
+  {
+    "text": "Slide 100",
+    "img": "./img/cuore7_00100.png",
+    "url": "slide100.html",
+    "div1": "<img src='Item100.png'>",
+    "div2": "Item 100 text"
+  },
+  {
+    "text": "Slide 101",
+    "img": "./img/cuore7_00101.png",
+    "url": "slide101.html",
+    "div1": "<img src='Item101.png'>",
+    "div2": "Item 101 text"
+  },
+  {
+    "text": "Slide 102",
+    "img": "./img/cuore7_00102.png",
+    "url": "slide102.html",
+    "div1": "<img src='Item102.png'>",
+    "div2": "Item 102 text"
+  },
+  {
+    "text": "Slide 103",
+    "img": "./img/cuore7_00103.png",
+    "url": "slide103.html",
+    "div1": "<img src='Item103.png'>",
+    "div2": "Item 103 text"
+  },
+  {
+    "text": "Slide 104",
+    "img": "./img/cuore7_00104.png",
+    "url": "slide104.html",
+    "div1": "<img src='Item104.png'>",
+    "div2": "Item 104 text"
+  },
+  {
+    "text": "Slide 105",
+    "img": "./img/cuore7_00105.png",
+    "url": "slide105.html",
+    "div1": "<img src='Item105.png'>",
+    "div2": "Item 105 text"
+  },
+  {
+    "text": "Slide 106",
+    "img": "./img/cuore7_00106.png",
+    "url": "slide106.html",
+    "div1": "<img src='Item106.png'>",
+    "div2": "Item 106 text"
+  },
+  {
+    "text": "Slide 107",
+    "img": "./img/cuore7_00107.png",
+    "url": "slide107.html",
+    "div1": "<img src='Item107.png'>",
+    "div2": "Item 107 text"
+  },
+  {
+    "text": "Slide 108",
+    "img": "./img/cuore7_00108.png",
+    "url": "slide108.html",
+    "div1": "<img src='Item108.png'>",
+    "div2": "Item 108 text"
+  },
+  {
+    "text": "Slide 109",
+    "img": "./img/cuore7_00109.png",
+    "url": "slide109.html",
+    "div1": "<img src='Item109.png'>",
+    "div2": "Item 109 text"
+  },
+  {
+    "text": "Slide 110",
+    "img": "./img/cuore7_00110.png",
+    "url": "slide110.html",
+    "div1": "<img src='Item110.png'>",
+    "div2": "Item 110 text"
+  },
+  {
+    "text": "Slide 111",
+    "img": "./img/cuore7_00111.png",
+    "url": "slide111.html",
+    "div1": "<img src='Item111.png'>",
+    "div2": "Item 111 text"
+  },
+  {
+    "text": "Slide 112",
+    "img": "./img/cuore7_00112.png",
+    "url": "slide112.html",
+    "div1": "<img src='Item112.png'>",
+    "div2": "Item 112 text"
+  },
+  {
+    "text": "Slide 113",
+    "img": "./img/cuore7_00113.png",
+    "url": "slide113.html",
+    "div1": "<img src='Item113.png'>",
+    "div2": "Item 113 text"
+  },
+  {
+    "text": "Slide 114",
+    "img": "./img/cuore7_00114.png",
+    "url": "slide114.html",
+    "div1": "<img src='Item114.png'>",
+    "div2": "Item 114 text"
+  },
+  {
+    "text": "Slide 115",
+    "img": "./img/cuore7_00115.png",
+    "url": "slide115.html",
+    "div1": "<img src='Item115.png'>",
+    "div2": "Item 115 text"
+  },
+  {
+    "text": "Slide 116",
+    "img": "./img/cuore7_00116.png",
+    "url": "slide116.html",
+    "div1": "<img src='Item116.png'>",
+    "div2": "Item 116 text"
+  },
+  {
+    "text": "Slide 117",
+    "img": "./img/cuore7_00117.png",
+    "url": "slide117.html",
+    "div1": "<img src='Item117.png'>",
+    "div2": "Item 117 text"
+  },
+  {
+    "text": "Slide 118",
+    "img": "./img/cuore7_00118.png",
+    "url": "slide118.html",
+    "div1": "<img src='Item118.png'>",
+    "div2": "Item 118 text"
+  },
+  {
+    "text": "Slide 119",
+    "img": "./img/cuore7_00119.png",
+    "url": "slide119.html",
+    "div1": "<img src='Item119.png'>",
+    "div2": "Item 119 text"
+  },
+  {
+    "text": "Slide 120",
+    "img": "./img/cuore7_00120.png",
+    "url": "slide120.html",
+    "div1": "<img src='Item120.png'>",
+    "div2": "Item 120 text"
+  },
+  {
+    "text": "Slide 121",
+    "img": "./img/cuore7_00121.png",
+    "url": "slide121.html",
+    "div1": "<img src='Item121.png'>",
+    "div2": "Item 121 text"
+  },
+  {
+    "text": "Slide 122",
+    "img": "./img/cuore7_00122.png",
+    "url": "slide122.html",
+    "div1": "<img src='Item122.png'>",
+    "div2": "Item 122 text"
+  },
+  {
+    "text": "Slide 123",
+    "img": "./img/cuore7_00123.png",
+    "url": "slide123.html",
+    "div1": "<img src='Item123.png'>",
+    "div2": "Item 123 text"
+  },
+  {
+    "text": "Slide 124",
+    "img": "./img/cuore7_00124.png",
+    "url": "slide124.html",
+    "div1": "<img src='Item124.png'>",
+    "div2": "Item 124 text"
+  },
+  {
+    "text": "Slide 125",
+    "img": "./img/cuore7_00125.png",
+    "url": "slide125.html",
+    "div1": "<img src='Item125.png'>",
+    "div2": "Item 125 text"
+  },
+  {
+    "text": "Slide 126",
+    "img": "./img/cuore7_00126.png",
+    "url": "slide126.html",
+    "div1": "<img src='Item126.png'>",
+    "div2": "Item 126 text"
+  },
+  {
+    "text": "Slide 127",
+    "img": "./img/cuore7_00127.png",
+    "url": "slide127.html",
+    "div1": "<img src='Item127.png'>",
+    "div2": "Item 127 text"
+  },
+  {
+    "text": "Slide 128",
+    "img": "./img/cuore7_00128.png",
+    "url": "slide128.html",
+    "div1": "<img src='Item128.png'>",
+    "div2": "Item 128 text"
+  },
+  {
+    "text": "Slide 129",
+    "img": "./img/cuore7_00129.png",
+    "url": "slide129.html",
+    "div1": "<img src='Item129.png'>",
+    "div2": "Item 129 text"
+  },
+  {
+    "text": "Slide 130",
+    "img": "./img/cuore7_00130.png",
+    "url": "slide130.html",
+    "div1": "<img src='Item130.png'>",
+    "div2": "Item 130 text"
+  },
+  {
+    "text": "Slide 131",
+    "img": "./img/cuore7_00131.png",
+    "url": "slide131.html",
+    "div1": "<img src='Item131.png'>",
+    "div2": "Item 131 text"
+  },
+  {
+    "text": "Slide 132",
+    "img": "./img/cuore7_00132.png",
+    "url": "slide132.html",
+    "div1": "<img src='Item132.png'>",
+    "div2": "Item 132 text"
+  },
+  {
+    "text": "Slide 133",
+    "img": "./img/cuore7_00133.png",
+    "url": "slide133.html",
+    "div1": "<img src='Item133.png'>",
+    "div2": "Item 133 text"
+  },
+  {
+    "text": "Slide 134",
+    "img": "./img/cuore7_00134.png",
+    "url": "slide134.html",
+    "div1": "<img src='Item134.png'>",
+    "div2": "Item 134 text"
+  },
+  {
+    "text": "Slide 135",
+    "img": "./img/cuore7_00135.png",
+    "url": "slide135.html",
+    "div1": "<img src='Item135.png'>",
+    "div2": "Item 135 text"
+  },
+  {
+    "text": "Slide 136",
+    "img": "./img/cuore7_00136.png",
+    "url": "slide136.html",
+    "div1": "<img src='Item136.png'>",
+    "div2": "Item 136 text"
+  },
+  {
+    "text": "Slide 137",
+    "img": "./img/cuore7_00137.png",
+    "url": "slide137.html",
+    "div1": "<img src='Item137.png'>",
+    "div2": "Item 137 text"
+  },
+  {
+    "text": "Slide 138",
+    "img": "./img/cuore7_00138.png",
+    "url": "slide138.html",
+    "div1": "<img src='Item138.png'>",
+    "div2": "Item 138 text"
+  },
+  {
+    "text": "Slide 139",
+    "img": "./img/cuore7_00139.png",
+    "url": "slide139.html",
+    "div1": "<img src='Item139.png'>",
+    "div2": "Item 139 text"
+  },
+  {
+    "text": "Slide 140",
+    "img": "./img/cuore7_00140.png",
+    "url": "slide140.html",
+    "div1": "<img src='Item140.png'>",
+    "div2": "Item 140 text"
+  },
+  {
+    "text": "Slide 141",
+    "img": "./img/cuore7_00141.png",
+    "url": "slide141.html",
+    "div1": "<img src='Item141.png'>",
+    "div2": "Item 141 text"
+  },
+  {
+    "text": "Slide 142",
+    "img": "./img/cuore7_00142.png",
+    "url": "slide142.html",
+    "div1": "<img src='Item142.png'>",
+    "div2": "Item 142 text"
+  },
+  {
+    "text": "Slide 143",
+    "img": "./img/cuore7_00143.png",
+    "url": "slide143.html",
+    "div1": "<img src='Item143.png'>",
+    "div2": "Item 143 text"
+  },
+  {
+    "text": "Slide 144",
+    "img": "./img/cuore7_00144.png",
+    "url": "slide144.html",
+    "div1": "<img src='Item144.png'>",
+    "div2": "Item 144 text"
+  },
+  {
+    "text": "Slide 145",
+    "img": "./img/cuore7_00145.png",
+    "url": "slide145.html",
+    "div1": "<img src='Item145.png'>",
+    "div2": "Item 145 text"
+  },
+  {
+    "text": "Slide 146",
+    "img": "./img/cuore7_00146.png",
+    "url": "slide146.html",
+    "div1": "<img src='Item146.png'>",
+    "div2": "Item 146 text"
+  },
+  {
+    "text": "Slide 147",
+    "img": "./img/cuore7_00147.png",
+    "url": "slide147.html",
+    "div1": "<img src='Item147.png'>",
+    "div2": "Item 147 text"
+  },
+  {
+    "text": "Slide 148",
+    "img": "./img/cuore7_00148.png",
+    "url": "slide148.html",
+    "div1": "<img src='Item148.png'>",
+    "div2": "Item 148 text"
+  },
+  {
+    "text": "Slide 149",
+    "img": "./img/cuore7_00149.png",
+    "url": "slide149.html",
+    "div1": "<img src='Item149.png'>",
+    "div2": "Item 149 text"
+  },
+  {
+    "text": "Slide 150",
+    "img": "./img/cuore7_00150.png",
+    "url": "slide150.html",
+    "div1": "<img src='Item150.png'>",
+    "div2": "Item 150 text"
+  },
+  {
+    "text": "Slide 151",
+    "img": "./img/cuore7_00151.png",
+    "url": "slide151.html",
+    "div1": "<img src='Item151.png'>",
+    "div2": "Item 151 text"
+  },
+  {
+    "text": "Slide 152",
+    "img": "./img/cuore7_00152.png",
+    "url": "slide152.html",
+    "div1": "<img src='Item152.png'>",
+    "div2": "Item 152 text"
+  },
+  {
+    "text": "Slide 153",
+    "img": "./img/cuore7_00153.png",
+    "url": "slide153.html",
+    "div1": "<img src='Item153.png'>",
+    "div2": "Item 153 text"
+  },
+  {
+    "text": "Slide 154",
+    "img": "./img/cuore7_00154.png",
+    "url": "slide154.html",
+    "div1": "<img src='Item154.png'>",
+    "div2": "Item 154 text"
+  },
+  {
+    "text": "Slide 155",
+    "img": "./img/cuore7_00155.png",
+    "url": "slide155.html",
+    "div1": "<img src='Item155.png'>",
+    "div2": "Item 155 text"
+  },
+  {
+    "text": "Slide 156",
+    "img": "./img/cuore7_00156.png",
+    "url": "slide156.html",
+    "div1": "<img src='Item156.png'>",
+    "div2": "Item 156 text"
+  },
+  {
+    "text": "Slide 157",
+    "img": "./img/cuore7_00157.png",
+    "url": "slide157.html",
+    "div1": "<img src='Item157.png'>",
+    "div2": "Item 157 text"
+  },
+  {
+    "text": "Slide 158",
+    "img": "./img/cuore7_00158.png",
+    "url": "slide158.html",
+    "div1": "<img src='Item158.png'>",
+    "div2": "Item 158 text"
+  },
+  {
+    "text": "Slide 159",
+    "img": "./img/cuore7_00159.png",
+    "url": "slide159.html",
+    "div1": "<img src='Item159.png'>",
+    "div2": "Item 159 text"
+  },
+  {
+    "text": "Slide 160",
+    "img": "./img/cuore7_00160.png",
+    "url": "slide160.html",
+    "div1": "<img src='Item160.png'>",
+    "div2": "Item 160 text"
+  },
+  {
+    "text": "Slide 161",
+    "img": "./img/cuore7_00161.png",
+    "url": "slide161.html",
+    "div1": "<img src='Item161.png'>",
+    "div2": "Item 161 text"
+  },
+  {
+    "text": "Slide 162",
+    "img": "./img/cuore7_00162.png",
+    "url": "slide162.html",
+    "div1": "<img src='Item162.png'>",
+    "div2": "Item 162 text"
+  },
+  {
+    "text": "Slide 163",
+    "img": "./img/cuore7_00163.png",
+    "url": "slide163.html",
+    "div1": "<img src='Item163.png'>",
+    "div2": "Item 163 text"
+  },
+  {
+    "text": "Slide 164",
+    "img": "./img/cuore7_00164.png",
+    "url": "slide164.html",
+    "div1": "<img src='Item164.png'>",
+    "div2": "Item 164 text"
+  },
+  {
+    "text": "Slide 165",
+    "img": "./img/cuore7_00165.png",
+    "url": "slide165.html",
+    "div1": "<img src='Item165.png'>",
+    "div2": "Item 165 text"
+  },
+  {
+    "text": "Slide 166",
+    "img": "./img/cuore7_00166.png",
+    "url": "slide166.html",
+    "div1": "<img src='Item166.png'>",
+    "div2": "Item 166 text"
+  },
+  {
+    "text": "Slide 167",
+    "img": "./img/cuore7_00167.png",
+    "url": "slide167.html",
+    "div1": "<img src='Item167.png'>",
+    "div2": "Item 167 text"
+  },
+  {
+    "text": "Slide 168",
+    "img": "./img/cuore7_00168.png",
+    "url": "slide168.html",
+    "div1": "<img src='Item168.png'>",
+    "div2": "Item 168 text"
+  },
+  {
+    "text": "Slide 169",
+    "img": "./img/cuore7_00169.png",
+    "url": "slide169.html",
+    "div1": "<img src='Item169.png'>",
+    "div2": "Item 169 text"
+  },
+  {
+    "text": "Slide 170",
+    "img": "./img/cuore7_00170.png",
+    "url": "slide170.html",
+    "div1": "<img src='Item170.png'>",
+    "div2": "Item 170 text"
+  },
+  {
+    "text": "Slide 171",
+    "img": "./img/cuore7_00171.png",
+    "url": "slide171.html",
+    "div1": "<img src='Item171.png'>",
+    "div2": "Item 171 text"
+  },
+  {
+    "text": "Slide 172",
+    "img": "./img/cuore7_00172.png",
+    "url": "slide172.html",
+    "div1": "<img src='Item172.png'>",
+    "div2": "Item 172 text"
+  },
+  {
+    "text": "Slide 173",
+    "img": "./img/cuore7_00173.png",
+    "url": "slide173.html",
+    "div1": "<img src='Item173.png'>",
+    "div2": "Item 173 text"
+  },
+  {
+    "text": "Slide 174",
+    "img": "./img/cuore7_00174.png",
+    "url": "slide174.html",
+    "div1": "<img src='Item174.png'>",
+    "div2": "Item 174 text"
+  },
+  {
+    "text": "Slide 175",
+    "img": "./img/cuore7_00175.png",
+    "url": "slide175.html",
+    "div1": "<img src='Item175.png'>",
+    "div2": "Item 175 text"
+  },
+  {
+    "text": "Slide 176",
+    "img": "./img/cuore7_00176.png",
+    "url": "slide176.html",
+    "div1": "<img src='Item176.png'>",
+    "div2": "Item 176 text"
+  },
+  {
+    "text": "Slide 177",
+    "img": "./img/cuore7_00177.png",
+    "url": "slide177.html",
+    "div1": "<img src='Item177.png'>",
+    "div2": "Item 177 text"
+  },
+  {
+    "text": "Slide 178",
+    "img": "./img/cuore7_00178.png",
+    "url": "slide178.html",
+    "div1": "<img src='Item178.png'>",
+    "div2": "Item 178 text"
+  },
+  {
+    "text": "Slide 179",
+    "img": "./img/cuore7_00179.png",
+    "url": "slide179.html",
+    "div1": "<img src='Item179.png'>",
+    "div2": "Item 179 text"
+  },
+  {
+    "text": "Slide 180",
+    "img": "./img/cuore7_00180.png",
+    "url": "slide180.html",
+    "div1": "<img src='Item180.png'>",
+    "div2": "Item 180 text"
+  },
+  {
+    "text": "Slide 181",
+    "img": "./img/cuore7_00181.png",
+    "url": "slide181.html",
+    "div1": "<img src='Item181.png'>",
+    "div2": "Item 181 text"
+  },
+  {
+    "text": "Slide 182",
+    "img": "./img/cuore7_00182.png",
+    "url": "slide182.html",
+    "div1": "<img src='Item182.png'>",
+    "div2": "Item 182 text"
+  },
+  {
+    "text": "Slide 183",
+    "img": "./img/cuore7_00183.png",
+    "url": "slide183.html",
+    "div1": "<img src='Item183.png'>",
+    "div2": "Item 183 text"
+  },
+  {
+    "text": "Slide 184",
+    "img": "./img/cuore7_00184.png",
+    "url": "slide184.html",
+    "div1": "<img src='Item184.png'>",
+    "div2": "Item 184 text"
+  },
+  {
+    "text": "Slide 185",
+    "img": "./img/cuore7_00185.png",
+    "url": "slide185.html",
+    "div1": "<img src='Item185.png'>",
+    "div2": "Item 185 text"
+  },
+  {
+    "text": "Slide 186",
+    "img": "./img/cuore7_00186.png",
+    "url": "slide186.html",
+    "div1": "<img src='Item186.png'>",
+    "div2": "Item 186 text"
+  },
+  {
+    "text": "Slide 187",
+    "img": "./img/cuore7_00187.png",
+    "url": "slide187.html",
+    "div1": "<img src='Item187.png'>",
+    "div2": "Item 187 text"
+  },
+  {
+    "text": "Slide 188",
+    "img": "./img/cuore7_00188.png",
+    "url": "slide188.html",
+    "div1": "<img src='Item188.png'>",
+    "div2": "Item 188 text"
+  },
+  {
+    "text": "Slide 189",
+    "img": "./img/cuore7_00189.png",
+    "url": "slide189.html",
+    "div1": "<img src='Item189.png'>",
+    "div2": "Item 189 text"
+  },
+  {
+    "text": "Slide 190",
+    "img": "./img/cuore7_00190.png",
+    "url": "slide190.html",
+    "div1": "<img src='Item190.png'>",
+    "div2": "Item 190 text"
+  },
+  {
+    "text": "Slide 191",
+    "img": "./img/cuore7_00191.png",
+    "url": "slide191.html",
+    "div1": "<img src='Item191.png'>",
+    "div2": "Item 191 text"
+  },
+  {
+    "text": "Slide 192",
+    "img": "./img/cuore7_00192.png",
+    "url": "slide192.html",
+    "div1": "<img src='Item192.png'>",
+    "div2": "Item 192 text"
+  },
+  {
+    "text": "Slide 193",
+    "img": "./img/cuore7_00193.png",
+    "url": "slide193.html",
+    "div1": "<img src='Item193.png'>",
+    "div2": "Item 193 text"
+  },
+  {
+    "text": "Slide 194",
+    "img": "./img/cuore7_00194.png",
+    "url": "slide194.html",
+    "div1": "<img src='Item194.png'>",
+    "div2": "Item 194 text"
+  },
+  {
+    "text": "Slide 195",
+    "img": "./img/cuore7_00195.png",
+    "url": "slide195.html",
+    "div1": "<img src='Item195.png'>",
+    "div2": "Item 195 text"
+  },
+  {
+    "text": "Slide 196",
+    "img": "./img/cuore7_00196.png",
+    "url": "slide196.html",
+    "div1": "<img src='Item196.png'>",
+    "div2": "Item 196 text"
+  },
+  {
+    "text": "Slide 197",
+    "img": "./img/cuore7_00197.png",
+    "url": "slide197.html",
+    "div1": "<img src='Item197.png'>",
+    "div2": "Item 197 text"
+  },
+  {
+    "text": "Slide 198",
+    "img": "./img/cuore7_00198.png",
+    "url": "slide198.html",
+    "div1": "<img src='Item198.png'>",
+    "div2": "Item 198 text"
+  },
+  {
+    "text": "Slide 199",
+    "img": "./img/cuore7_00199.png",
+    "url": "slide199.html",
+    "div1": "<img src='Item199.png'>",
+    "div2": "Item 199 text"
+  },
+  {
+    "text": "Slide 200",
+    "img": "./img/cuore7_00200.png",
+    "url": "slide200.html",
+    "div1": "<img src='Item200.png'>",
+    "div2": "Item 200 text"
+  },
+  {
+    "text": "Slide 201",
+    "img": "./img/cuore7_00201.png",
+    "url": "slide201.html",
+    "div1": "<img src='Item201.png'>",
+    "div2": "Item 201 text"
+  },
+  {
+    "text": "Slide 202",
+    "img": "./img/cuore7_00202.png",
+    "url": "slide202.html",
+    "div1": "<img src='Item202.png'>",
+    "div2": "Item 202 text"
+  },
+  {
+    "text": "Slide 203",
+    "img": "./img/cuore7_00203.png",
+    "url": "slide203.html",
+    "div1": "<img src='Item203.png'>",
+    "div2": "Item 203 text"
+  },
+  {
+    "text": "Slide 204",
+    "img": "./img/cuore7_00204.png",
+    "url": "slide204.html",
+    "div1": "<img src='Item204.png'>",
+    "div2": "Item 204 text"
+  },
+  {
+    "text": "Slide 205",
+    "img": "./img/cuore7_00205.png",
+    "url": "slide205.html",
+    "div1": "<img src='Item205.png'>",
+    "div2": "Item 205 text"
+  },
+  {
+    "text": "Slide 206",
+    "img": "./img/cuore7_00206.png",
+    "url": "slide206.html",
+    "div1": "<img src='Item206.png'>",
+    "div2": "Item 206 text"
+  },
+  {
+    "text": "Slide 207",
+    "img": "./img/cuore7_00207.png",
+    "url": "slide207.html",
+    "div1": "<img src='Item207.png'>",
+    "div2": "Item 207 text"
+  },
+  {
+    "text": "Slide 208",
+    "img": "./img/cuore7_00208.png",
+    "url": "slide208.html",
+    "div1": "<img src='Item208.png'>",
+    "div2": "Item 208 text"
+  },
+  {
+    "text": "Slide 209",
+    "img": "./img/cuore7_00209.png",
+    "url": "slide209.html",
+    "div1": "<img src='Item209.png'>",
+    "div2": "Item 209 text"
+  },
+  {
+    "text": "Slide 210",
+    "img": "./img/cuore7_00210.png",
+    "url": "slide210.html",
+    "div1": "<img src='Item210.png'>",
+    "div2": "Item 210 text"
+  },
+  {
+    "text": "Slide 211",
+    "img": "./img/cuore7_00211.png",
+    "url": "slide211.html",
+    "div1": "<img src='Item211.png'>",
+    "div2": "Item 211 text"
+  },
+  {
+    "text": "Slide 212",
+    "img": "./img/cuore7_00212.png",
+    "url": "slide212.html",
+    "div1": "<img src='Item212.png'>",
+    "div2": "Item 212 text"
+  },
+  {
+    "text": "Slide 213",
+    "img": "./img/cuore7_00213.png",
+    "url": "slide213.html",
+    "div1": "<img src='Item213.png'>",
+    "div2": "Item 213 text"
+  },
+  {
+    "text": "Slide 214",
+    "img": "./img/cuore7_00214.png",
+    "url": "slide214.html",
+    "div1": "<img src='Item214.png'>",
+    "div2": "Item 214 text"
+  },
+  {
+    "text": "Slide 215",
+    "img": "./img/cuore7_00215.png",
+    "url": "slide215.html",
+    "div1": "<img src='Item215.png'>",
+    "div2": "Item 215 text"
+  },
+  {
+    "text": "Slide 216",
+    "img": "./img/cuore7_00216.png",
+    "url": "slide216.html",
+    "div1": "<img src='Item216.png'>",
+    "div2": "Item 216 text"
+  },
+  {
+    "text": "Slide 217",
+    "img": "./img/cuore7_00217.png",
+    "url": "slide217.html",
+    "div1": "<img src='Item217.png'>",
+    "div2": "Item 217 text"
+  },
+  {
+    "text": "Slide 218",
+    "img": "./img/cuore7_00218.png",
+    "url": "slide218.html",
+    "div1": "<img src='Item218.png'>",
+    "div2": "Item 218 text"
+  },
+  {
+    "text": "Slide 219",
+    "img": "./img/cuore7_00219.png",
+    "url": "slide219.html",
+    "div1": "<img src='Item219.png'>",
+    "div2": "Item 219 text"
+  },
+  {
+    "text": "Slide 220",
+    "img": "./img/cuore7_00220.png",
+    "url": "slide220.html",
+    "div1": "<img src='Item220.png'>",
+    "div2": "Item 220 text"
+  },
+  {
+    "text": "Slide 221",
+    "img": "./img/cuore7_00221.png",
+    "url": "slide221.html",
+    "div1": "<img src='Item221.png'>",
+    "div2": "Item 221 text"
+  },
+  {
+    "text": "Slide 222",
+    "img": "./img/cuore7_00222.png",
+    "url": "slide222.html",
+    "div1": "<img src='Item222.png'>",
+    "div2": "Item 222 text"
+  },
+  {
+    "text": "Slide 223",
+    "img": "./img/cuore7_00223.png",
+    "url": "slide223.html",
+    "div1": "<img src='Item223.png'>",
+    "div2": "Item 223 text"
+  },
+  {
+    "text": "Slide 224",
+    "img": "./img/cuore7_00224.png",
+    "url": "slide224.html",
+    "div1": "<img src='Item224.png'>",
+    "div2": "Item 224 text"
+  },
+  {
+    "text": "Slide 225",
+    "img": "./img/cuore7_00225.png",
+    "url": "slide225.html",
+    "div1": "<img src='Item225.png'>",
+    "div2": "Item 225 text"
+  },
+  {
+    "text": "Slide 226",
+    "img": "./img/cuore7_00226.png",
+    "url": "slide226.html",
+    "div1": "<img src='Item226.png'>",
+    "div2": "Item 226 text"
+  },
+  {
+    "text": "Slide 227",
+    "img": "./img/cuore7_00227.png",
+    "url": "slide227.html",
+    "div1": "<img src='Item227.png'>",
+    "div2": "Item 227 text"
+  },
+  {
+    "text": "Slide 228",
+    "img": "./img/cuore7_00228.png",
+    "url": "slide228.html",
+    "div1": "<img src='Item228.png'>",
+    "div2": "Item 228 text"
+  },
+  {
+    "text": "Slide 229",
+    "img": "./img/cuore7_00229.png",
+    "url": "slide229.html",
+    "div1": "<img src='Item229.png'>",
+    "div2": "Item 229 text"
+  },
+  {
+    "text": "Slide 230",
+    "img": "./img/cuore7_00230.png",
+    "url": "slide230.html",
+    "div1": "<img src='Item230.png'>",
+    "div2": "Item 230 text"
+  },
+  {
+    "text": "Slide 231",
+    "img": "./img/cuore7_00231.png",
+    "url": "slide231.html",
+    "div1": "<img src='Item231.png'>",
+    "div2": "Item 231 text"
+  },
+  {
+    "text": "Slide 232",
+    "img": "./img/cuore7_00232.png",
+    "url": "slide232.html",
+    "div1": "<img src='Item232.png'>",
+    "div2": "Item 232 text"
+  },
+  {
+    "text": "Slide 233",
+    "img": "./img/cuore7_00233.png",
+    "url": "slide233.html",
+    "div1": "<img src='Item233.png'>",
+    "div2": "Item 233 text"
+  },
+  {
+    "text": "Slide 234",
+    "img": "./img/cuore7_00234.png",
+    "url": "slide234.html",
+    "div1": "<img src='Item234.png'>",
+    "div2": "Item 234 text"
+  },
+  {
+    "text": "Slide 235",
+    "img": "./img/cuore7_00235.png",
+    "url": "slide235.html",
+    "div1": "<img src='Item235.png'>",
+    "div2": "Item 235 text"
+  },
+  {
+    "text": "Slide 236",
+    "img": "./img/cuore7_00236.png",
+    "url": "slide236.html",
+    "div1": "<img src='Item236.png'>",
+    "div2": "Item 236 text"
+  },
+  {
+    "text": "Slide 237",
+    "img": "./img/cuore7_00237.png",
+    "url": "slide237.html",
+    "div1": "<img src='Item237.png'>",
+    "div2": "Item 237 text"
+  },
+  {
+    "text": "Slide 238",
+    "img": "./img/cuore7_00238.png",
+    "url": "slide238.html",
+    "div1": "<img src='Item238.png'>",
+    "div2": "Item 238 text"
+  },
+  {
+    "text": "Slide 239",
+    "img": "./img/cuore7_00239.png",
+    "url": "slide239.html",
+    "div1": "<img src='Item239.png'>",
+    "div2": "Item 239 text"
+  },
+  {
+    "text": "Slide 240",
+    "img": "./img/cuore7_00240.png",
+    "url": "slide240.html",
+    "div1": "<img src='Item240.png'>",
+    "div2": "Item 240 text"
+  },
+  {
+    "text": "Slide 241",
+    "img": "./img/cuore7_00241.png",
+    "url": "slide241.html",
+    "div1": "<img src='Item241.png'>",
+    "div2": "Item 241 text"
+  },
+  {
+    "text": "Slide 242",
+    "img": "./img/cuore7_00242.png",
+    "url": "slide242.html",
+    "div1": "<img src='Item242.png'>",
+    "div2": "Item 242 text"
+  },
+  {
+    "text": "Slide 243",
+    "img": "./img/cuore7_00243.png",
+    "url": "slide243.html",
+    "div1": "<img src='Item243.png'>",
+    "div2": "Item 243 text"
+  },
+  {
+    "text": "Slide 244",
+    "img": "./img/cuore7_00244.png",
+    "url": "slide244.html",
+    "div1": "<img src='Item244.png'>",
+    "div2": "Item 244 text"
+  },
+  {
+    "text": "Slide 245",
+    "img": "./img/cuore7_00245.png",
+    "url": "slide245.html",
+    "div1": "<img src='Item245.png'>",
+    "div2": "Item 245 text"
+  },
+  {
+    "text": "Slide 246",
+    "img": "./img/cuore7_00246.png",
+    "url": "slide246.html",
+    "div1": "<img src='Item246.png'>",
+    "div2": "Item 246 text"
+  },
+  {
+    "text": "Slide 247",
+    "img": "./img/cuore7_00247.png",
+    "url": "slide247.html",
+    "div1": "<img src='Item247.png'>",
+    "div2": "Item 247 text"
+  },
+  {
+    "text": "Slide 248",
+    "img": "./img/cuore7_00248.png",
+    "url": "slide248.html",
+    "div1": "<img src='Item248.png'>",
+    "div2": "Item 248 text"
+  },
+  {
+    "text": "Slide 249",
+    "img": "./img/cuore7_00249.png",
+    "url": "slide249.html",
+    "div1": "<img src='Item249.png'>",
+    "div2": "Item 249 text"
+  }
+]

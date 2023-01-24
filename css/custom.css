@@ -1,0 +1,58 @@
+html, body {
+	padding: 0;
+	margin: 0;
+	height: 100%;
+}
+body {
+	display: flex;
+	flex-direction: column;
+}
+.slider1 {
+	z-index: 10;
+}
+.slider2 {
+	position: absolute;
+	display: none !important;
+}
+.swiper {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-left: unset;
+	margin-right: unset;
+}
+.swiper-horizontal {
+	width: 100%;
+	height: 250px;
+}
+.swiper-vertical {
+	width: 350px;
+	height: 100%;
+}
+.swiper-horizontal .swiper-wrapper {
+	height: 200px;
+}
+.swiper-vertical .swiper-wrapper {
+	width: 280px;
+}
+.swiper-slide {
+	background-color: gray;
+	font-size: 25px;
+	transition-property: transform, scale;
+	transition-duration: 0.3s;
+	scale: 1.0;
+
+	-webkit-backface-visibility:/* hidden; 
+	-webkit-transform: translate3d(0, 0, 0);
+	transform: translate3d(0, 0, 0);
+	transform: translateZ(0);
+	perspective: 1000;
+	backface-visibility: hidden;*/
+}
+.swiper-slide > img {
+	width: 100%;
+	position: absolute;
+}
+.swiper-slide-active {
+	scale: 1.2;
+}
